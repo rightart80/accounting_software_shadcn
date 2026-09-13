@@ -1,7 +1,6 @@
 {
   "name": "morao-artisans-accounting",
   "version": "1.0.0",
-  "description": "Morao Artisans Accounting & Inventory Management Platform",
   "private": true,
   "scripts": {
     "dev": "next dev",
